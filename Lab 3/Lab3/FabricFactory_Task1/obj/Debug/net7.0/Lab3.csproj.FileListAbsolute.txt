@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\bin\Debug\net7.0\Lab3.exe
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\bin\Debug\net7.0\Lab3.deps.json
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\bin\Debug\net7.0\Lab3.runtimeconfig.json
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\bin\Debug\net7.0\Lab3.dll
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\bin\Debug\net7.0\Lab3.pdb
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.dll
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\refint\Lab3.dll
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.pdb
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\Lab3.genruntimeconfig.cache
+E:\Learn\КПЗ\Lab 3\Lab3\Lab3\obj\Debug\net7.0\ref\Lab3.dll
