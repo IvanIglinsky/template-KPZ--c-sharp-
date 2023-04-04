@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\bin\Debug\net7.0\Fasad_Task_3.exe
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\bin\Debug\net7.0\Fasad_Task_3.deps.json
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\bin\Debug\net7.0\Fasad_Task_3.runtimeconfig.json
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\bin\Debug\net7.0\Fasad_Task_3.dll
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\bin\Debug\net7.0\Fasad_Task_3.pdb
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.AssemblyInfo.cs
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.dll
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\refint\Fasad_Task_3.dll
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.pdb
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\Fasad_Task_3.genruntimeconfig.cache
+E:\Learn\КПЗ\Lab-3\Fasad_Task_3\obj\Debug\net7.0\ref\Fasad_Task_3.dll

@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\bin\Debug\net7.0\Adapter_Task_1.exe
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\bin\Debug\net7.0\Adapter_Task_1.deps.json
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\bin\Debug\net7.0\Adapter_Task_1.runtimeconfig.json
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\bin\Debug\net7.0\Adapter_Task_1.dll
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\bin\Debug\net7.0\Adapter_Task_1.pdb
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.AssemblyInfo.cs
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.dll
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\refint\Adapter_Task_1.dll
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.pdb
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\Adapter_Task_1.genruntimeconfig.cache
+E:\Learn\КПЗ\Lab-3\Adapter_Task_1\obj\Debug\net7.0\ref\Adapter_Task_1.dll

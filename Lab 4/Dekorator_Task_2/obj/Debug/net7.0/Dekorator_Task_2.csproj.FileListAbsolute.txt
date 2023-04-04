@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\bin\Debug\net7.0\Dekorator_Task_2.exe
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\bin\Debug\net7.0\Dekorator_Task_2.deps.json
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\bin\Debug\net7.0\Dekorator_Task_2.runtimeconfig.json
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\bin\Debug\net7.0\Dekorator_Task_2.dll
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\bin\Debug\net7.0\Dekorator_Task_2.pdb
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.AssemblyInfo.cs
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.dll
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\refint\Dekorator_Task_2.dll
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.pdb
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\Dekorator_Task_2.genruntimeconfig.cache
+E:\Learn\КПЗ\Lab-3\Dekorator_Task_2\obj\Debug\net7.0\ref\Dekorator_Task_2.dll
