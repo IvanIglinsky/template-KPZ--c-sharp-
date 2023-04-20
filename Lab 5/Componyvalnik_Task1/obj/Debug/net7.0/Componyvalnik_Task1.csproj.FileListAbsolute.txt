@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\bin\Debug\net7.0\Componyvalnik_Task1.exe
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\bin\Debug\net7.0\Componyvalnik_Task1.deps.json
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\bin\Debug\net7.0\Componyvalnik_Task1.runtimeconfig.json
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\bin\Debug\net7.0\Componyvalnik_Task1.dll
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\bin\Debug\net7.0\Componyvalnik_Task1.pdb
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.AssemblyInfo.cs
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.dll
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\refint\Componyvalnik_Task1.dll
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.pdb
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\Componyvalnik_Task1.genruntimeconfig.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Componyvalnik_Task1\obj\Debug\net7.0\ref\Componyvalnik_Task1.dll

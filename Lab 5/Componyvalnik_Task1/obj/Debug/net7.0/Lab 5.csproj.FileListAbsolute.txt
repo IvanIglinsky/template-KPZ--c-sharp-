@@ -1,0 +1,5 @@
+E:\Learn\КПЗ\Componyvalnik_Task1\Lab 5\obj\Debug\net7.0\Lab 5.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Lab 5\obj\Debug\net7.0\Lab 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Componyvalnik_Task1\Lab 5\obj\Debug\net7.0\Lab 5.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Lab 5\obj\Debug\net7.0\Lab 5.AssemblyInfo.cs
+E:\Learn\КПЗ\Componyvalnik_Task1\Lab 5\obj\Debug\net7.0\Lab 5.csproj.CoreCompileInputs.cache

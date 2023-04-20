@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\bin\Debug\net7.0\Lightweight_Task4.exe
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\bin\Debug\net7.0\Lightweight_Task4.deps.json
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\bin\Debug\net7.0\Lightweight_Task4.runtimeconfig.json
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\bin\Debug\net7.0\Lightweight_Task4.dll
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\bin\Debug\net7.0\Lightweight_Task4.pdb
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.AssemblyInfo.cs
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.dll
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\refint\Lightweight_Task4.dll
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.pdb
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\Lightweight_Task4.genruntimeconfig.cache
+E:\Learn\КПЗ\Componyvalnik_Task1\Lightweight_Task4\obj\Debug\net7.0\ref\Lightweight_Task4.dll
