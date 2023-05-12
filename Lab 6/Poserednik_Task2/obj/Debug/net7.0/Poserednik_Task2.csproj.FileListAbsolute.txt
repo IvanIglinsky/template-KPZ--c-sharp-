@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\bin\Debug\net7.0\Poserednik_Task2.exe
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\bin\Debug\net7.0\Poserednik_Task2.deps.json
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\bin\Debug\net7.0\Poserednik_Task2.runtimeconfig.json
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\bin\Debug\net7.0\Poserednik_Task2.dll
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\bin\Debug\net7.0\Poserednik_Task2.pdb
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.AssemblyInfo.cs
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.dll
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\refint\Poserednik_Task2.dll
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.pdb
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\Poserednik_Task2.genruntimeconfig.cache
+E:\Learn\КПЗ\Lab 6\Poserednik_Task2\obj\Debug\net7.0\ref\Poserednik_Task2.dll

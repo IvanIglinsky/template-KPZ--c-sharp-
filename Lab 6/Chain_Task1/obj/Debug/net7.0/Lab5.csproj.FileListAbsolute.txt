@@ -1,0 +1,15 @@
+E:\Learn\КПЗ\Chain_Task1\Lab5\bin\Debug\net7.0\Lab5.exe
+E:\Learn\КПЗ\Chain_Task1\Lab5\bin\Debug\net7.0\Lab5.deps.json
+E:\Learn\КПЗ\Chain_Task1\Lab5\bin\Debug\net7.0\Lab5.runtimeconfig.json
+E:\Learn\КПЗ\Chain_Task1\Lab5\bin\Debug\net7.0\Lab5.dll
+E:\Learn\КПЗ\Chain_Task1\Lab5\bin\Debug\net7.0\Lab5.pdb
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.csproj.AssemblyReference.cache
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.AssemblyInfoInputs.cache
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.AssemblyInfo.cs
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.csproj.CoreCompileInputs.cache
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.dll
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\refint\Lab5.dll
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.pdb
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\Lab5.genruntimeconfig.cache
+E:\Learn\КПЗ\Chain_Task1\Lab5\obj\Debug\net7.0\ref\Lab5.dll
